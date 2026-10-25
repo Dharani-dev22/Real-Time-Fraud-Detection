@@ -1,0 +1,6 @@
+kafka-python
+pyspark==3.3.0
+pymongo
+streamlit
+pandas
+plotly
