@@ -89,10 +89,10 @@ streamlit run app.py
 *(Ensure `dashboard_top.png` and `dashboard_bottom.png` are uploaded to your repository to display these images)*
 
 ### Live SOC Controls & Geographic Hotspots
-![SOC Dashboard Top](dashboard_top.png)
+![SOC Dashboard Top](dash1.png)
 
 ### Transaction Velocity & Processed Ledger
-![SOC Dashboard Bottom](dashboard_bottom.png)
+![SOC Dashboard Bottom](dash2.png)
 
 ---
 
